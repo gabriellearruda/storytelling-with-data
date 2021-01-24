@@ -1,6 +1,6 @@
 # STORYTELLING WITH DATA
 
-## References
+## EXAMPLES
 - [Abhinav Sharma](https://github.com/ABSphreak)
   <details>
     <summary>Preview</summary>
