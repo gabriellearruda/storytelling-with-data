@@ -3,7 +3,7 @@
 ```
 "Don't simply show your data, tell a story with it!" - cole nussbaumer
 ```
-This is a personal repository for learning about "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
+This is a personal repository about "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
 
 1. Context
@@ -33,7 +33,7 @@ This is a personal repository for learning about "storytelling with data", the m
       Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
     </details>
     
-5. [Some Tools]()
+5. Some Tools
     <details>
     <summary>See</summary>
     
@@ -138,9 +138,5 @@ This is a personal repository for learning about "storytelling with data", the m
         <br /> *Former Googler Cole Nussbaumer Knaflic teaches people how to turn data into high impact visual stories that stick with their audiences. Hear about the powerful strategies that were honed through her work on the People Analytics team and the data visualization course that Cole created at Google and taught at offices throughout the US and Europe.*
 <img align="center" width="100%" height="0" />
 
-
-
-
-Colos blindness, 8% of men and half a percent of women experience some form of color blindness. Most typically that manifests itself as difficulty in distinguing between shades of red and shades os green, which means you want to, in gereal avoid using shades of red and green together. 
 
 
