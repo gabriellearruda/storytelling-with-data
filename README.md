@@ -21,6 +21,10 @@ This is a repository of personal studies on "storytelling with data", the main s
     How - What data is available that will help make my point? Data becomes supporting evidence of the story you will build and tell.
     <br>
     <br>
+    <img src="images/context.png">
+    <br>
+    <img src="images/contextsum.png">
+    <br>
     </details>
   
 2. [Second Step - Display](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
