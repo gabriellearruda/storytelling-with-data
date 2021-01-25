@@ -27,7 +27,7 @@ This is a repository of personal studies on "storytelling with data", the main s
     <br>
     </details>
   
-2. [Second Step - Display](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
+2. [SECOND STEP - DISPLAY](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
   
 3. THIRD STEP - STORY
     <details>
@@ -75,14 +75,14 @@ This is a repository of personal studies on "storytelling with data", the main s
     <br><br>
     </details>
     
-4. Dashboards Consideration
+4. DASHBOARDS CONSIDERATION
     <details>
         <summary>Read</summary>
       "Dashboards, are sort of a sepecific different use case as well. And when it comes to dashboards, if you really are wanting to allow your audience to dig and come up with their own stories then you actually want to stay away from some of the stuff that we talk about here today. Because as soon as you use color, especially, to draw your audience's to one story, it actually makes any other potential stories much harder to see. So dashboards, you want to think about designing in grays when you can or using color only as categorical differentiator, not as a visual cur that says, draw attention here. <br><br>
       Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
     </details>
     
-5. Some Tools to Data Visualization
+5. SOME TOOLS TO DATA VISUALIZATION
     <details>
     <summary>See</summary>
     
@@ -119,7 +119,7 @@ This is a repository of personal studies on "storytelling with data", the main s
     </details>  
     
     
-6. Good Data Visualization Examples
+6. GOOD DATA VISUALIZATION EXAMPLES
     <details>
     <summary>See</summary>
     
