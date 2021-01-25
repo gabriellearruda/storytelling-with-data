@@ -3,9 +3,8 @@
 ```
 "Don't simply show your data, tell a story with it!" - cole nussbaumer
 ```
-This is a learning repository of storytelling with data, the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, other main repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
+This is a personal repository for learning about "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
-The contents are divided into different files.
 
 1. Context
     <details>
@@ -25,15 +24,75 @@ The contents are divided into different files.
   
 2. [Display]()
 3. [Story]()
-4. [Dashboards]()
+4. Dashboards
     <details>
         <summary>Read</summary>
       "Dashboards, are sort of a sepecific different use case as well. And when it comes to dashboards, if you really are wanting to allow your audience to dig and come up with their own stories then you actually want to stay away from some of the stuff that we talk about here today. Because as soon as you use color, especially, to draw your audience's to one story, it actually makes any other potential stories much harder to see. So dashboards, you want to think about designing in grays when you can or using color only as categorical differentiator, not as a visual cur that says, draw attention here. <br><br>
       Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
     </details>
 5. [Some Tools](https://github.com/gabriellearruda/storytelling-with-data/blob/main/tools.md)
-6. [Examples](https://github.com/gabriellearruda/storytelling-with-data/blob/main/examples.md)
+6. [Good Data Visualization Examples](https://github.com/gabriellearruda/storytelling-with-data/blob/main/examples.md)
+    <details>
+    <summary>See</summary>
+    
+    - [UK Government Income](https://informationisbeautiful.net/visualizations/uk-government-spending-incomes-outcomes/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/uk_income.png">
+      </details>
 
+    - [USA Left vs Right](https://www.informationisbeautiful.net/visualizations/left-vs-right-world/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/usa_pol.png">
+      </details>
+
+    - [Cancer is not the end - Cancer não é o fim (PT)](https://informationisbeautiful.net/visualizations/gender-pay-gap/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/cancer.jpg">
+      </details>
+
+    - [Harassment Tree - Arvore de Assédio (PT)](https://informationisbeautiful.net/visualizations/gender-pay-gap/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/assedio.jpg">
+      </details>
+
+    - [Gender Pay Gap US/UK](https://informationisbeautiful.net/visualizations/gender-pay-gap/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/gender_gap.png">
+      </details>
+
+    - [Who old Are You?](https://informationisbeautiful.net/visualizations/who-old-are-you/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/whoold.png">
+      </details>
+
+    - [Spotify Billionaires](https://informationisbeautiful.net/visualizations/spotify-apple-music-tidal-music-streaming-services-royalty-rates-compared/)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/spotify.png">
+      </details>
+
+    - [China's economic - The Guardian](https://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/china.jpg">
+      </details>
+
+    - [Bloomberg Billionaires Index](https://www.informationisbeautifulawards.com/showcase/64-bloomberg-billionaires-index)
+      <details>
+        <summary>Preview</summary>
+        <img src="examples/billio.png">
+      </details>
+    </details>
+
+
+<br>
+<br>
   
 [<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=8EMW7io4rSI)
         **[Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY)**
