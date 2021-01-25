@@ -43,13 +43,13 @@
     <img src="examples/spotify.png">
   </details>
  
- - [China's economic - The Guardian](https://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports)
+- [China's economic - The Guardian](https://www.theguardian.com/world/ng-interactive/2015/aug/26/china-economic-slowdown-world-imports)
   <details>
     <summary>Preview</summary>
     <img src="examples/china.jpg">
   </details>
   
- - [Bloomberg Billionaires Index](https://www.informationisbeautifulawards.com/showcase/64-bloomberg-billionaires-index)
+- [Bloomberg Billionaires Index](https://www.informationisbeautifulawards.com/showcase/64-bloomberg-billionaires-index)
   <details>
     <summary>Preview</summary>
     <img src="examples/billio.png">
