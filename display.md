@@ -15,6 +15,53 @@ How to dispose information?
 ---
 ## Type
 
+<table style="border-color: transparent;">
+ <tbody style="border-color: transparent;">
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><img align="left" alt="livros" src="images/simpletext.png" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="comunidade" src="images/scatter.png" />
+  </tr>
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;">Simple Text - When you have just a number or two to share, simple text can be a great way to communicate.
+   <td style="border-color: transparent;">Scatterplots - Can be useful for showing the relationship between two
+things.
+  </tr>
+  
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><img align="left" href="" alt="danca" src="images/table.png" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="viagem" src="images/heatmap.png" />
+  </tr>
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;">Tables - Using in a table in presentation can make you lose their ears and attention to make your point verbally.
+   <td style="border-color: transparent;">Heatmap - Be sure when you leverage this to always include a legend to help the reader interpret the data.
+  </tr>
+  
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><img align="left" alt="livros" src="images/line.png" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="danca" src="images/slope.png" />
+  </tr>
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;">Line graph - Be consistent in the time points you plot.
+   <td style="border-color: transparent;">Slopegraphs - Can be useful when you have two time periods or
+points of comparison.
+  </tr>
+  
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;"><img align="left" alt="livros" src="images/watterfall.png" />
+   <td style="border-color: transparent;"><img align="left" href="" alt="danca" src="images/square.png" />
+  </tr>
+  <tr style="border-color: transparent;">
+   <td style="border-color: transparent;">Waterfall chart - can be used to pull apart the pieces of a stacked
+bar chart to focus on one at a time.
+   <td style="border-color: transparent;">Square - Allows this to be done in a more compact way than
+possible with a single dimension.
+  </tr>
+ </tbody>
+</table>
+<p align="center">
+ <img  align="center" src="images/bar.png"><br>
+</p>
+
 ## Decluttering
 1. Remove chart border - Chart borders are usually unnecessary, as we covered in our discussion of the Gestalt principle of closure.<br>
 2. Remove gridlines - If it will be helpful for your audience to trace their finger from the data to the axis, you can leave the gridlines. But make them thin and use a light color like grey. Do not let them compete visually with your data.<br>
