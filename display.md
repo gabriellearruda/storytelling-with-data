@@ -21,9 +21,9 @@ How to dispose information?
 3. Remove data markers - Remember, every single element adds cognitive load on the part of your audience. Here, we’re adding cognitive load to process data that is already depicted visually with the lines. This isn’t to say that you should never use data markers, but rather use them on purpose and with a purpose, rather than because their inclusion is your graphing application’s default.<br>
 4. Clean up axis labels - Get rid of them, reducing their unnecessary burden on the audience’s cognitive load.<br>
 5. Label data directly<br>
-<img src="images/focus.png"><br>
+<img src="images/namelabel.png"><br>
 6. Leverage consistent color <br>
-<img src="images/focus.png"><br>
+<img src="images/graphcolor.png"><br>
 
 ## Highlight
 -  Bold, italics, and underlining: Use for titles, labels, captions, and short word sequences to differentiate elements. Bolding is generally preferred over italics and underlining because it adds minimal noise to the design while clearly highlighting chosen elements.<br>
