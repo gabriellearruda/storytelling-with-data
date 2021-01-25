@@ -6,28 +6,28 @@
 This is a repository of personal studies on "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
 
-1. FIRST STEP - CONTEXT
-    <details>
-      <summary>Read</summary>
-    <b>The first step is to understand some things about the process you are working on. You can group this information into a doc to guide you through this process.</b><br><br>
-    <b>Exploratory vs. explanatory analysis</b><br>
-    Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
-    When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
-    <br>
-    <br>
-    <b>Who, what, and how</b><br>
-    Who - Sometimes this means creating different communications for different audiences.<br>
-    What - What do you need your audience to know or do? <br>
-    How - What data is available that will help make my point? Data becomes supporting evidence of the story you will build and tell.
-    <br>
-    <br>
-    <img src="images/context.png">
-    <br>
-    <img src="images/contextsum.png">
-    <br>
-    </details>
+## 1. First Step - Context
+<details>
+  <summary>Read</summary>
+<b>The first step is to understand some things about the process you are working on. You can group this information into a doc to guide you through this process.</b><br><br>
+<b>Exploratory vs. explanatory analysis</b><br>
+Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
+When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
+<br>
+<br>
+<b>Who, what, and how</b><br>
+Who - Sometimes this means creating different communications for different audiences.<br>
+What - What do you need your audience to know or do? <br>
+How - What data is available that will help make my point? Data becomes supporting evidence of the story you will build and tell.
+<br>
+<br>
+<img src="images/context.png">
+<br>
+<img src="images/contextsum.png">
+<br>
+</details>
   
-2. [SECOND STEP - DISPLAY](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
+## 2. [SECOND STEP - DISPLAY](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
   
 3. THIRD STEP - STORY
     <details>
