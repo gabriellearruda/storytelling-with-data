@@ -138,7 +138,7 @@ This is a personal repository about "storytelling with data", the main source is
 <br>
 <br>
   
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=8EMW7io4rSI)
+[<img src="images/cole.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=8EMW7io4rSI)
         **[Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY)**
         <br /> *Former Googler Cole Nussbaumer Knaflic teaches people how to turn data into high impact visual stories that stick with their audiences. Hear about the powerful strategies that were honed through her work on the People Analytics team and the data visualization course that Cole created at Google and taught at offices throughout the US and Europe.*
 <img align="center" width="100%" height="0" />
