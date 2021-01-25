@@ -8,12 +8,12 @@ This is a learning repository of storytelling with data, the main source is [Col
 The contents are divided into different files.
 
 1. [Context]()
-  <details>
-    <summary>Read</summary>
-Exploratory vs. explanatory analysis<br>
-Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
-When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
-  </details>
+    <details>
+      <summary>Read</summary>
+  Exploratory vs. explanatory analysis<br>
+  Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
+  When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
+    </details>
   
 2. [Display]()
 3. [Story]()
