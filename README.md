@@ -6,7 +6,7 @@
 This is a repository of personal studies on "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
 
-1. First Step - Context
+1. FIRST STEP - CONTEXT
     <details>
       <summary>Read</summary>
     <b>The first step is to understand some things about the process you are working on. You can group this information into a doc to guide you through this process.</b><br><br>
@@ -29,7 +29,7 @@ This is a repository of personal studies on "storytelling with data", the main s
   
 2. [Second Step - Display](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
   
-3. Third Step - Story
+3. THIRD STEP - STORY
     <details>
         <summary>Read</summary>
     <b>Finally, it is necessary to summarize everything for presentation in story format.</b><br><br>
