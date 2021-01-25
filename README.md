@@ -33,7 +33,7 @@ This is a personal repository about "storytelling with data", the main source is
       Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
     </details>
     
-5. Some Tools
+5. Some Tools to Data Visualization
     <details>
     <summary>See</summary>
     
