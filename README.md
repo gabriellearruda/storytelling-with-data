@@ -56,4 +56,4 @@
   </details>
   
 ## Data Slides
-Data slides Inspired in data scientist and master student in computer science work [@dandaramcsousa](https://github.com/dandaramcsousa).
+Data slides was inspired in data scientist and master student in computer science work [@dandaramcsousa](https://github.com/dandaramcsousa).
