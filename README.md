@@ -28,6 +28,7 @@ This is a personal repository about "storytelling with data", the main source is
 3. Third Step - Story
     <details>
         <summary>Read</summary>
+    <b>Finally, it is necessary to summarize everything for presentation in story format.</b><br><br>
     </details>
     
 4. Dashboards Consideration
