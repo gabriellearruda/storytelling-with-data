@@ -7,17 +7,30 @@ This is a learning repository of storytelling with data, the main source is [Col
 <br><br>
 The contents are divided into different files.
 
-1. [Context]()
+1. Context
     <details>
       <summary>Read</summary>
-    Exploratory vs. explanatory analysis<br>
+    <b>Exploratory vs. explanatory analysis</b><br>
     Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
     When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
+    <br>
+    <br>
+    <b>Who, what, and how</b><br>
+    Who - Sometimes this means creating different communications for different audiences.<br>
+    What - What do you need your audience to know or do? <br>
+    How - What data is available that will help make my point? Data becomes supporting evidence of the story you will build and tell.
+    <br>
+    <br>
     </details>
   
 2. [Display]()
 3. [Story]()
 4. [Dashboards]()
+    <details>
+        <summary>Read</summary>
+      "Dashboards, are sort of a sepecific different use case as well. And when it comes to dashboards, if you really are wanting to allow your audience to dig and come up with their own stories then you actually want to stay away from some of the stuff that we talk about here today. Because as soon as you use color, especially, to draw your audience's to one story, it actually makes any other potential stories much harder to see. So dashboards, you want to think about designing in grays when you can or using color only as categorical differentiator, not as a visual cur that says, draw attention here. <br><br>
+      Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
+    </details>
 5. [Some Tools](https://github.com/gabriellearruda/storytelling-with-data/blob/main/tools.md)
 6. [Examples](https://github.com/gabriellearruda/storytelling-with-data/blob/main/examples.md)
 
@@ -31,6 +44,5 @@ The contents are divided into different files.
 
 
 Colos blindness, 8% of men and half a percent of women experience some form of color blindness. Most typically that manifests itself as difficulty in distinguing between shades of red and shades os green, which means you want to, in gereal avoid using shades of red and green together. 
-"Dashboards, are sort of a sepecific different use case as well. And when it comes to dashboards, if you really are wanting to allow your audience to dig and come up with their own stories then you actually want to stay away from some of the stuff that we talk about here today. Because as soon as you use color, especially, to draw your audience's to one story, it actually makes any other potential stories much harder to see. So dashboards, you want to think about designing in grays when you can or using color only as categorical differentiator, not as a visual cur that says, draw attention here. <br>
-Dashboard for me often fit in exploratory, but I think ofthen get sort of tried to be used for the explanatory. When you find something interesting thing, then instead of using the dashboads to communicate that, my view is that you should do the stuff we talked about today." - Adapted speech from [Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY) min: 33:13.
+
 
