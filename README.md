@@ -6,9 +6,10 @@
 This is a personal repository about "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
 
-1. Context
+1. First Step - Context
     <details>
       <summary>Read</summary>
+    <b>The first step is to understand some things about the process you are working on.</b><br><br>
     <b>Exploratory vs. explanatory analysis</b><br>
     Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
     When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
@@ -22,10 +23,13 @@ This is a personal repository about "storytelling with data", the main source is
     <br>
     </details>
   
-2. [Display](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
+2. [Second Step - Display](https://github.com/gabriellearruda/storytelling-with-data/blob/main/display.md)
   
-3. [Story]()
-
+3. Third Step - Story
+    <details>
+        <summary>Read</summary>
+    </details>
+    
 4. Dashboards Consideration
     <details>
         <summary>Read</summary>
