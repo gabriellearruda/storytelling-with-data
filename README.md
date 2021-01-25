@@ -8,14 +8,19 @@ This is a learning repository of storytelling with data, the main source is [Col
 The contents are divided into different files.
 
 1. [Context]()
+  <details>
+    <summary>Read</summary>
+Exploratory vs. explanatory analysis<br>
+Exploratory analysis is what you do to understand the data and figure out what might be noteworthy or interesting to highlight to others.<br>
+When we’re at the point of communicating our analysis to our audience, we really want to be in the explanatory space, meaning you have a specific thing you want to explain, a specific story you want to tell.
+  </details>
+  
 2. [Display]()
 3. [Story]()
 4. [Dashboards]()
 5. [Some Tools](https://github.com/gabriellearruda/storytelling-with-data/blob/main/tools.md)
 6. [Examples](https://github.com/gabriellearruda/storytelling-with-data/blob/main/examples.md)
- <details>
-       <summary>Ver</summary>
- </details>
+
   
 [<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=8EMW7io4rSI)
         **[Storytelling with Data | Cole Nussbaumer Knaflic | Talks at Google](https://www.youtube.com/watch?v=Ov2x6NqxNqY)**
