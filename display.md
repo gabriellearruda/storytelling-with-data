@@ -3,12 +3,12 @@
 
 How to dispose information?
 
-[Type](#type)<br>
-[Decluttering](#decluttering)<br>
-[Highlight](#highlight)<br>
-[Color](#color)<br>
-[Focus](#focus)<br>
-[Risk Perception](#perception)<br><br>
+- [Type](#type)<br>
+- [Decluttering](#decluttering)<br>
+- [Highlight](#highlight)<br>
+- [Color](#color)<br>
+- [Focus](#focus)<br>
+- [Risk Perception](#perception)<br><br>
 
 [BACK](https://github.com/gabriellearruda/storytelling-with-data/blob/main/README.md) to Main File.
 
