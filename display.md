@@ -32,7 +32,7 @@ things.
    <td style="border-color: transparent;"><img align="left" href="" alt="viagem" src="images/heatmap.png" />
   </tr>
   <tr style="border-color: transparent;">
-   <td style="border-color: transparent;">Tables - Using in a table in presentation can make you lose their ears and attention to make your point verbally.
+   <td style="border-color: transparent;">Tables - Using in a presentation can make you lose their ears and attention to make your point verbally.
    <td style="border-color: transparent;">Heatmap - Be sure when you leverage this to always include a legend to help the reader interpret the data.
   </tr>
   
