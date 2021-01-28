@@ -6,6 +6,10 @@
 This is a repository of personal studies on "storytelling with data", the main source is [Cole Nussbaumer Knaflic's book](http://www.storytellingwithdata.com/book/downloads) with the same name, others repositories are the [Dartmouth course](https://github.com/ContextLab/storytelling-with-data) and [@empathy87's](https://github.com/empathy87/storytelling-with-data) personal learning.
 <br><br>
 
+## WHAT IS AND WHY USE STORYTELLING WITH DATA?
+Storytelling with data is critical to success with analytics programs, it differs from data visualization because it requires communicators to offer a larger view of their message. The way the data is presented and the story told, can be more convincing than just facts, can change the risk perception, the data understanding and memory of the insights, besides others benefits.
+
+
 ## 1. First Step - Context
 <details>
   <summary>Read</summary>
