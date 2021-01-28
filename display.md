@@ -102,9 +102,13 @@ Data visualizations are standard tools for assessing and communicating risks. Th
 <img src="images/paper.png">
 
 ## ExperiencesVsFacts
+[Impact of Visualization on Risk Perception and Decision-Making](https://arxiv.org/pdf/1910.09725.pdf)<br>
+Data visualizations are standard tools for assessing and communicating risks. The study results show how we model risk perception and decisions for each visualization and provide a ranking to improve visualization selection.
+ icons>pie>bar>triangle>circle<br>
+<img src="images/paper.png">
+
 [Personal experiences bridge moral and political divides better than facts](https://www.pnas.org/content/118/6/e2008389118)<br>
 This research provides a straightforward pathway for increasing moral understanding and decreasing political intolerance. These findings also raise questions about how science and society should understand the nature of truth in the era of “fake news.” In moral and political disagreements, everyday people treat subjective experiences as truer than objective facts.<br>
 <img src="images/F3large.jpg">
-<img src="images/F4large.jpg">
 ---
 [BACK](https://github.com/gabriellearruda/storytelling-with-data/blob/main/README.md) to Main File.
