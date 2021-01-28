@@ -3,12 +3,13 @@
 
 How to dispose information?
 
-- [Type](#type)<br>
+- [Types](#type)<br>
 - [Decluttering](#decluttering)<br>
 - [Highlight](#highlight)<br>
 - [Color](#color)<br>
 - [Focus](#focus)<br>
-- [Risk Perception](#perception)<br><br>
+- [Data visualizations and Risk Perception](#perception)<br>
+- [Personal Experiences VS Facts In Bridge Moral](#experiencesvsfacts)<br><br>
 
 [BACK](https://github.com/gabriellearruda/storytelling-with-data/blob/main/README.md) to Main File.
 
@@ -96,9 +97,13 @@ Once you’ve crafted your communication, give it to a friend or colleague. It c
 
 ## Perception
 [Impact of Visualization on Risk Perception and Decision-Making](https://arxiv.org/pdf/1910.09725.pdf)<br>
+Data visualizations are standard tools for assessing and communicating risks. The study results show how we model risk perception and decisions for each visualization and provide a ranking to improve visualization selection.
  icons>pie>bar>triangle>circle<br>
 <img src="images/paper.png">
 
-
+## ExperiencesVsFacts
+[Personal experiences bridge moral and political divides better than facts](https://www.pnas.org/content/118/6/e2008389118)<br>
+This research provides a straightforward pathway for increasing moral understanding and decreasing political intolerance. These findings also raise questions about how science and society should understand the nature of truth in the era of “fake news.” In moral and political disagreements, everyday people treat subjective experiences as truer than objective facts.
+<img src="images/F3.large.jpg">
 ---
 [BACK](https://github.com/gabriellearruda/storytelling-with-data/blob/main/README.md) to Main File.
