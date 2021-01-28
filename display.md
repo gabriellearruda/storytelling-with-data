@@ -9,7 +9,7 @@ How to dispose information?
 - [Color](#color)<br>
 - [Focus](#focus)<br>
 - [Data visualizations and Risk Perception](#perception)<br>
-- [Personal Experiences VS Facts In Bridge Moral](#experiencesvsfacts)<br><br>
+- [Personal Experiences VS Facts](#experiencesvsfacts)<br><br>
 
 [BACK](https://github.com/gabriellearruda/storytelling-with-data/blob/main/README.md) to Main File.
 
